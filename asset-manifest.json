@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.04858ab1.css",
-    "main.js": "/static/js/main.fd9f9b43.js",
-    "static/media/profile.jpg": "/static/media/profile.5eada5fa98a63635d81f.jpg",
-    "static/media/movie.jpg": "/static/media/movie.90a8414fe48b5ef972cc.jpg",
-    "static/media/resume.pdf": "/static/media/resume.dbd8017460be6feb8f24.pdf",
-    "static/media/learn_python.jpg": "/static/media/learn_python.32bf68a339fc60ffbedb.jpg",
-    "static/media/workshop.jpg": "/static/media/workshop.9adf492bfbe33b2053f8.jpg",
-    "index.html": "/index.html",
-    "main.04858ab1.css.map": "/static/css/main.04858ab1.css.map",
-    "main.fd9f9b43.js.map": "/static/js/main.fd9f9b43.js.map"
+    "main.css": "/temp-react-web/static/css/main.04858ab1.css",
+    "main.js": "/temp-react-web/static/js/main.bb18b6c5.js",
+    "static/media/profile.jpg": "/temp-react-web/static/media/profile.5eada5fa98a63635d81f.jpg",
+    "static/media/movie.jpg": "/temp-react-web/static/media/movie.90a8414fe48b5ef972cc.jpg",
+    "static/media/resume.pdf": "/temp-react-web/static/media/resume.dbd8017460be6feb8f24.pdf",
+    "static/media/learn_python.jpg": "/temp-react-web/static/media/learn_python.32bf68a339fc60ffbedb.jpg",
+    "static/media/workshop.jpg": "/temp-react-web/static/media/workshop.9adf492bfbe33b2053f8.jpg",
+    "index.html": "/temp-react-web/index.html",
+    "main.04858ab1.css.map": "/temp-react-web/static/css/main.04858ab1.css.map",
+    "main.bb18b6c5.js.map": "/temp-react-web/static/js/main.bb18b6c5.js.map"
   },
   "entrypoints": [
     "static/css/main.04858ab1.css",
-    "static/js/main.fd9f9b43.js"
+    "static/js/main.bb18b6c5.js"
   ]
 }
