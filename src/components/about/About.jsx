@@ -8,7 +8,7 @@ const Card = (props) => {
   return (
     <div className="about__cards">
             <article className='about__card'>
-              {props.title === 'Experience' && <RiAwardFill className='about__icon'/>}
+              {props.title === 'Professional Experience' && <RiAwardFill className='about__icon'/>}
               {props.title === 'Education' && <IoMdSchool className='about__icon'/>}
               <h3>{props.title}</h3>  
               <h5>{props.headline}</h5>
@@ -20,7 +20,7 @@ const Card = (props) => {
 function About() {
   return (
     <section id='about'>
-      <h2>Who am I...</h2>
+      <h2>👨‍💻 WHAT'S MY STORY 👨‍💻</h2>
 
       <div className="container about__container">
         <div className="about__me">
@@ -31,14 +31,19 @@ function About() {
         </div>
         <div className="about__content">
           <Card title="Education" headline="Wabash College, Class of 2025" />
-          <Card title="Experience" headline="1.5+ Years Working"/>
+          <Card title="Professional Experience" headline="1.5+ Years"/>
          
 
          <p>
 
-         A self-taught programmer, mathematician, and a CS student with participation in international competitions and professional experience 
-            in high-paced tech outsourcing companies and startups, possessing decent knowledge of the software development lifecycle 
-                              and a good understanding of algorithms and data structures.
+         A self-taught programmer, mathematician, and a CS student with professional experience in high-paced tech startups, 
+         possessing decent knowledge of the software development lifecycle and a good understanding of 
+         algorithms and data structures.
+
+         <br></br>
+         <br></br>
+
+         I am also a massive cinephile and love to talk about films (especially foreign films) anytime of the day when I'm not coding.
 
          </p>
 
