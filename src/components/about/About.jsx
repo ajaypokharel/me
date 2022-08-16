@@ -30,8 +30,8 @@ function About() {
 
         </div>
         <div className="about__content">
-          <Card title="Education" headline="Wabash College, Class of 2025" />
-          <Card title="Experience" headline="1.5+ Years Working"/>
+          <Card title="Education" headline="Fisk University, Class of 2025" />
+          <Card title="Experience" headline="2+ Years Working"/>
          
 
          <p>
