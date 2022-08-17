@@ -13,7 +13,7 @@ header {
 }
 
 .header__container h5 {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
 }
 
 .header__container h1 {
@@ -39,6 +39,7 @@ header {
     position: absolute;
     left: 1;
     bottom: 4rem;
+    font-size: 1.3rem;
 }
 
 .header__socials::after {

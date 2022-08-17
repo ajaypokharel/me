@@ -7,8 +7,8 @@ import movieImg from '../../assets/movie.jpg'
 const Portfolio = () => {
   return (
     <section id='portfolio'>
-      <h5>My Relevant Work</h5>
-      <h2>Portfolio</h2>
+      <h5>Tech Portfolio</h5>
+      <h2> 🎯 GitHub Projects 🎯</h2>
       <div className="container portfolio__container">
         <PortfolioList 
           imagePath={pythonImg}
